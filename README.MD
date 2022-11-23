@@ -68,7 +68,7 @@ February<br><a href="speakers/sampson.html">Scott Sampson</a></h3>
 </aside>
 </main>
 <footer>
-<p>&copy;Copyright 2018 San Joaquin Valley Town Hall, Fresno, CA 93755</p>
+<p>&copy;Copyright 2022 Elton Haskaj, Newark, NJ 93755</p>
 </footer>
 </body>
 </html>
